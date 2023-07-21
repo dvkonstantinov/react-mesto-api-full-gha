@@ -23,8 +23,8 @@ app.use(cookieParser());
 // ];
 app.use(cors({
   origin: [
-    // 'https://pract.dvkonstantinov.ru',
-    // 'http://pract.dvkonstantinov.ru',
+    'https://pract.dvkonstantinov.ru',
+    'http://pract.dvkonstantinov.ru',
     'http://localhost:3000',
     // 'http://localhost:3001',
     // 'http://127.0.0.1:3000',
