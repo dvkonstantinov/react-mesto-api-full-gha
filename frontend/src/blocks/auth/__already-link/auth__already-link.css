@@ -1,0 +1,8 @@
+.auth__already-link {
+}
+
+.auth__already-link:-webkit-any-link {
+  color: #fff;
+  cursor: pointer;
+  text-decoration: none;
+}

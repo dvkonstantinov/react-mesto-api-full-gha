@@ -1,0 +1,12 @@
+.form__button_color_black {
+  background-color: #fff;
+  border-radius: 2px;
+  color: #000;
+  margin-top: 216px;
+}
+
+@media (max-width: 830px) {
+  .form__button_color_black {
+    margin-top: 173px;
+  }
+}

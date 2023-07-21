@@ -1,0 +1,12 @@
+.header__action {
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 400;
+}
+
+@media (max-width: 830px) {
+  .header__action {
+    font-size: 14px;
+    line-height: 17px;
+  }
+}

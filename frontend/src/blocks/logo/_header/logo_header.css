@@ -1,0 +1,11 @@
+@media (max-width: 920px) {
+  .logo_header {
+    padding-left: 25px;
+    display: block;
+  }
+}
+@media (max-width: 830px) {
+  .logo_header {
+    padding-top: 27px;
+  }
+}

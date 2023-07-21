@@ -1,0 +1,13 @@
+.auth__already {
+  color: #fff;
+  text-align: center;
+  margin-top: 15px;
+}
+
+@media (max-width: 830px) {
+  .auth__already {
+    font-size: 14px;
+    margin-top: 20px;
+  }
+}
+

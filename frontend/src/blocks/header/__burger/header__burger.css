@@ -1,0 +1,15 @@
+.header__burger {
+  width: 24px;
+  height: 24px;
+  background: url(../../../images/burger-icon.svg) center no-repeat;
+  background-size: contain;
+  background-position: center;
+  border: none;
+  display: none;
+}
+
+@media (max-width: 830px) {
+  .header__burger {
+    display: block;
+  }
+}

@@ -1,0 +1,16 @@
+.nav__action {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  color: #fff;
+  text-decoration: none;
+  margin-left: 24px;
+  color: #a9a9a9;
+}
+
+@media (max-width: 830px) {
+  .nav__action {
+    text-align: center;
+    margin-left: 0;
+  }
+}

@@ -1,0 +1,23 @@
+.form__input_color_black {
+  background-color: #000;
+  border-bottom: 2px solid #cccccc;
+  color: #fff;
+  margin-top: 50px;
+  box-sizing: border-box;
+}
+
+.form__input_color_black:focus {
+  border-bottom: 2px solid #cccccc;
+}
+
+@media (max-width: 830px) {
+  .form__input_color_black {
+    margin-top: 40px;
+  }
+}
+
+@media (max-width: 570px) {
+  input.form__input_color_black {
+    margin-top: 40px;
+  }
+}

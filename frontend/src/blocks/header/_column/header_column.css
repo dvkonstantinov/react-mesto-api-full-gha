@@ -1,0 +1,7 @@
+@media (max-width: 830px) {
+  .header_column {
+    padding: 0;
+    margin-top: 0;
+    flex-direction: column-reverse;
+  }
+}

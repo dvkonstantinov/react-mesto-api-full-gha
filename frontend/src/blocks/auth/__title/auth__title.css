@@ -1,0 +1,8 @@
+.auth__title {
+  text-align: center;
+}
+@media (max-width: 830px) {
+  .auth__title {
+    font-size: 20px;
+  }
+}

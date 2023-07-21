@@ -1,0 +1,17 @@
+.popup__image-auth {
+  margin: 0 auto;
+  width: 120px;
+  height: 120px;
+  margin-bottom: 32px;
+  margin-top: 25px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+@media (max-width: 830px) {
+  .popup__image-auth {
+    margin-top: 15px;
+    margin-bottom: 40px;
+  }
+}
